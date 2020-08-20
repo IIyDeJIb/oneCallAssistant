@@ -1,0 +1,1 @@
+@py.exe C:\Users\peyruz.gasimov\Work\Python\Utilities\oneCallAssistant_v_1-1.py %*
